@@ -210,5 +210,12 @@ const weeks = await fetchContributions(username);
 const svg = buildSVG(weeks);
 
 const fs = await import("node:fs");
+const path = await import("node:path");
+
+// Garante que a pasta de saída exista
+fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+
+// Escreve o SVG
 fs.writeFileSync(outputPath, svg, "utf-8");
+
 console.log(`SVG gerado: ${outputPath} (${weeks.length} semanas)`);
