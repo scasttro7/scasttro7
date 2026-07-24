@@ -39,9 +39,7 @@
 
 </div>
 
-<img src="assets/dossel-estrada.jpg" width="100%" style="border-radius:12px; max-height:200px; object-fit:cover; margin:16px 0;" alt="Dossel florestal visto do ar"/>
-
-# 👋 Oi! Eu sou a Sabrina.
+<h1><img src="assets/dossel-estrada.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Dossel florestal"/> 👋 Oi! Eu sou a Sabrina.</h1>
 
 Faço Doutorado em **Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)**.
 
@@ -57,9 +55,7 @@ Tudo isso para responder perguntas difíceis sobre as florestas tropicais. Pergu
 
 Foi daí que nasceu o primeiro projeto do **CastroLab™: BIODATUM**.
 
-<img src="assets/canoa.jpg" width="100%" style="border-radius:12px; max-height:200px; object-fit:cover; margin:16px 0;" alt="Canoa em rio amazônico"/>
-
-# 🚀 O que eu construo
+<h1><img src="assets/canoa.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Canoa em rio amazônico"/> 🚀 O que eu construo</h1>
 
 Não gosto de escrever código que morre junto com a tese. Prefiro construir ferramentas que outras pessoas possam usar.
 
@@ -67,9 +63,7 @@ Minha ideia é simples:
 
 > **Se alguém conseguir fazer boa ciência usando um pacote que eu desenvolvi, então ele cumpriu seu papel.**
 
-# 🌴 Projetos
-
-<img src="assets/dossel-panoramica.jpg" width="100%" style="border-radius:12px; max-height:280px; object-fit:cover; margin:16px 0;" alt="Dossel da Floresta Amazônica ao entardecer"/>
+<h1><img src="assets/dossel-panoramica.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Dossel florestal"/> 🌴 Projetos</h1>
 
 <table>
 <tr>
@@ -115,9 +109,7 @@ Pacote R para análise integrada dos seis biomas brasileiros.
 </tr>
 </table>
 
-<img src="assets/rio-barcos.jpg" width="100%" style="border-radius:12px; max-height:200px; object-fit:cover; margin:16px 0;" alt="Rio amazônico com barco e comunidade ribeirinha"/>
-
-# 🌎 Agenda científica
+<h1><img src="assets/rio-barcos.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Rio amazônico com barco"/> 🌎 Agenda científica</h1>
 
 Hoje trabalho principalmente com:
 
@@ -175,7 +167,7 @@ Porque problemas parecidos merecem conversar entre si.
 
 # 🌱 Ciência que acredito
 
-🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
+🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;☕ Café&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
