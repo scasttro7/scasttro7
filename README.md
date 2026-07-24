@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado (capsule-render) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3d14,50:2d5a20,100:4a8c38&height=220&section=header&text=CastroLab™&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cientista%20Galerosa™&descAlignY=52&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3d14,50:2d5a20,100:4a8c38&height=220&section=header&text=CastroLab™&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&Adesc=Cientista%20Galerosa™&descAlignY=52&descSize=22"/>
 
 <!-- Contador de visitantes -->
 <img src="https://komarev.com/ghpvc/?username=scasttro7&label=Visitas+ao+perfil&color=2d5a20&style=flat" />
