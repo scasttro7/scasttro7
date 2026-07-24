@@ -12,11 +12,13 @@
 
 ### 🔬 Sobre o que eu pesquiso
 
-Sou doutoranda no **PPGCASA/UFAM**, desenvolvendo o **BIODATUM** — um arcabouço que integra
-resiliência florestal (sensoriamento remoto), percepção comunitária (pesquisa de campo) e
-governança territorial em Reservas de Desenvolvimento Sustentável da Amazônia. Minha tese
-propõe métricas formais para medir a coerência entre o que a floresta guarda objetivamente e
-o que as comunidades que dela dependem percebem.
+Sou doutoranda no **PPGCASA/UFAM**, desenvolvendo o **BIODATUM** — um framework
+científico que integra resiliência florestal (sensoriamento remoto), percepção
+comunitária (pesquisa de campo) e governança territorial em florestas tropicais
+do Sul Global, começando pela Amazônia. Minha tese propõe métricas formais para
+medir a coerência entre o que a floresta guarda objetivamente e o que as
+comunidades que dela dependem percebem — e é o primeiro caso de aplicação de um
+framework que pretendo evoluir para prescritivo, não apenas descritivo.
 
 Construo os componentes desse arcabouço como **pacotes R abertos e reutilizáveis** — não
 apenas como código de tese, mas como infraestrutura que qualquer pesquisador brasileiro possa
@@ -53,9 +55,11 @@ uso além do escopo da minha tese.
 <td width="50%" valign="top">
 
 **[BIODATUM](https://github.com/scasttro7/Biodatum)**
-O arcabouço de tese que articula os pacotes acima: coerência socioecológica
-entre resiliência florestal (IRFA), percepção comunitária (IPTA) e
-governança territorial (IGL) em RDS do Amazonas.
+Framework científico que articula os pacotes acima (ForestR, EcoBiomasBR)
+com os indicadores da minha tese — coerência socioecológica entre
+resiliência florestal (IRFA), percepção comunitária (IPTA) e governança
+territorial (IGL). Em evolução para um framework **prescritivo**, voltado a
+florestas tropicais do Sul Global, começando pela Amazônia.
 
 </td>
 <td width="50%" valign="top">
