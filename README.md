@@ -154,12 +154,11 @@ Porque problemas parecidos merecem conversar entre si.
 </p>
 
 <!--
-Efeito extra opcional: a "cobrinha" que come seus commits, animada, comendo
-o gráfico de contribuições. Requer configurar uma GitHub Action própria
-(não é um serviço externo como os badges acima) — se quiser, eu te ajudo a
-montar o workflow. Depois disso, é só descomentar a linha abaixo:
+# 🐍 Contribuições (modo cobrinha)
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/scasttro7/scasttro7/output/github-contribution-grid-snake.svg" width="100%"/>
--->
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
