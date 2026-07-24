@@ -29,7 +29,7 @@
 
 # 👋 Oi! Eu sou a Sabrina.
 
-Sou doutoranda em **Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)**.
+Faço Doutorado em  **Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)**.
 
 Minha pesquisa une:
 
