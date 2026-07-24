@@ -153,7 +153,6 @@ Porque problemas parecidos merecem conversar entre si.
 <img src="https://github-profile-trophy.vercel.app/?username=scasttro7&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
-<!--
 # 🐍 Contribuições (modo cobrinha)
 
 <p align="center">
