@@ -1,93 +1,189 @@
 <div align="center">
 
-# Olá, eu sou a Sabrina 🌿
+# CastroLab™ 🌴
 
-### Doutoranda em Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)
+### Cientista Galerosa™
 
-*Construindo infraestrutura computacional aberta para monitoramento socioecológico da Amazônia*
+☕ **Não me leve a sério. Me leve pra lanchar.**
+
+---
+
+### 🌎 Open Science for Tropical Forests
+
+Construindo ciência aberta, código aberto e infraestrutura computacional para as florestas tropicais do Sul Global.
 
 </div>
 
 ---
 
-### 🔬 Sobre o que eu pesquiso
+# 👋 Oi! Eu sou a Sabrina.
 
-Sou doutoranda no **PPGCASA/UFAM**, desenvolvendo o **BIODATUM** — um framework
-científico que integra resiliência florestal (sensoriamento remoto), percepção
-comunitária (pesquisa de campo) e governança territorial em florestas tropicais
-do Sul Global, começando pela Amazônia. Minha tese propõe métricas formais para
-medir a coerência entre o que a floresta guarda objetivamente e o que as
-comunidades que dela dependem percebem — e é o primeiro caso de aplicação de um
-framework que pretendo evoluir para prescritivo, não apenas descritivo.
+Sou doutoranda em **Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)**.
 
-Construo os componentes desse arcabouço como **pacotes R abertos e reutilizáveis** — não
-apenas como código de tese, mas como infraestrutura que qualquer pesquisador brasileiro possa
-usar.
+Minha pesquisa une:
 
----
+🛰️ Sensoriamento Remoto
 
-### 🌱 Projetos em destaque
+🤖 GeoAI
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🌳 Ecologia de Florestas Tropicais
 
-**[ForestR](https://github.com/scasttro7/ForestR)**
-Equações alométricas tropicais (Amazônia, Bacia do Congo, Sudeste Asiático,
-Pantropical), cadeia fresco→seco→carbono validada contra Higuchi et al. (1998),
-e o Índice de Resiliência Florestal Amazônica (IRFA).
+🌎 Ciência Aberta
 
-![R](https://img.shields.io/badge/R-package-blue) ![tests](https://img.shields.io/badge/testes-passando-brightgreen)
+🌱 Governança Socioambiental
 
-</td>
-<td width="50%" valign="top">
+Tudo isso para responder perguntas difíceis sobre as florestas tropicais.
 
-**[EcoBiomasBR](https://github.com/scasttro7/EcoBiomasBR)**
-Biomassa, carbono, perturbação antrópica, clima e sensoriamento remoto
-para os seis biomas brasileiros — funções bilíngues PT/EN, pensado para
-uso além do escopo da minha tese.
+Perguntas do tipo:
 
-![R](https://img.shields.io/badge/R-package-blue) ![lang](https://img.shields.io/badge/idioma-PT%20%2F%20EN-blue)
+> **O que a floresta guarda?**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> **O que as comunidades percebem?**
 
-**[BIODATUM](https://github.com/scasttro7/Biodatum)**
-Framework científico que articula os pacotes acima (ForestR, EcoBiomasBR)
-com os indicadores da minha tese — coerência socioecológica entre
-resiliência florestal (IRFA), percepção comunitária (IPTA) e governança
-territorial (IGL). Em evolução para um framework **prescritivo**, voltado a
-florestas tropicais do Sul Global, começando pela Amazônia.
+> **Quando essas duas histórias deixam de conversar?**
 
-</td>
-<td width="50%" valign="top">
-
-**Mais sobre mim**
-📍 Manaus, Amazonas, Brasil
-🎓 PPGCASA/UFAM · Linha de Pesquisa: Dinâmicas Socioambientais
-💬 Aberta a colaborações em ecologia computacional, sensoriamento remoto e ciência de dados aplicada à Amazônia
-
-</td>
-</tr>
-</table>
+Foi daí que nasceu o **BIODATUM**.
 
 ---
 
-### 🛠️ Ferramentas que uso
+# 🚀 O que eu construo
+
+Não gosto de escrever código que morre junto com a tese.
+
+Prefiro construir ferramentas que outras pessoas possam usar.
+
+Minha ideia é simples:
+
+> **Se alguém conseguir fazer boa ciência usando um pacote que eu desenvolvi, então ele cumpriu seu papel.**
+
+---
+
+# 🌴 Projetos
+
+## 🛰️ BIODATUM
+
+Framework científico para monitoramento socioecológico de florestas tropicais.
+
+Integra:
+
+- 🌳 Resiliência Florestal
+- 👥 Percepção Comunitária
+- 🏛️ Governança Territorial
+- 🌎 Inteligência Climática
+
+---
+
+## 🌳 ForestR
+
+Pacote R para biomassa, carbono e equações alométricas de florestas tropicais.
+
+Atualmente contempla:
+
+- Amazônia
+- Pantropical
+- Bacia do Congo
+- Sudeste Asiático
+
+---
+
+## 🇧🇷 EcoBiomasBR
+
+Pacote R para análise integrada dos seis biomas brasileiros.
+
+Inclui:
+
+- Biomassa
+- Carbono
+- Clima
+- Uso da terra
+- Sensoriamento remoto
+
+---
+
+# 🌎 Agenda científica
+
+Hoje trabalho principalmente com:
+
+🇧🇷 Amazônia
+
+Mas minha agenda científica pretende conectar diferentes florestas tropicais.
+
+Próximos estudos:
+
+🌴 Amazônia
+
+🌿 Mata Atlântica (Cabruca)
+
+🌍 África
+
+🌏 Sudeste Asiático
+
+Porque problemas parecidos merecem conversar entre si.
+
+---
+
+# 🛠️ Tecnologias
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Dados & sensoriamento remoto:** GEDI (NASA), MapBiomas, PRODES/INPE, ALOS-4/PALSAR-2, ERA5/Copernicus
+---
+
+# 🌱 Ciência que acredito
+
+🌎 Ciência Aberta
+
+💻 Código Aberto
+
+📊 Dados Abertos
+
+🤝 Colaboração
+
+☕ Café
+
+🍔 Lanches
+
+---
+
+# 📚 Curiosidades cientificamente relevantes
+
+🥤 Sommelier Internacional de Toddynho.
+
+🍔 Não me leve a sério.
+
+🥪 Me leve pra lanchar.
+
+🥁 Ou pro pagode.
+
+---
+
+# 🤝 Vamos conversar?
+
+Se você trabalha com:
+
+- Remote Sensing
+- GeoAI
+- Tropical Forest Ecology
+- Environmental Sciences
+- Open Science
+- Tropical Forests
+
+...vamos conversar!
+
+Sempre há espaço para novas colaborações.
+
+(E provavelmente também para um café.)
 
 ---
 
 <div align="center">
 
-*"O que a floresta guarda?"* — construindo as métricas para responder essa pergunta, um pacote de cada vez.
+## 🌴 CastroLab™
+
+**Open Science. Open Code. Open Collaboration. Open Snacks. 🍔**
+
+*"A melhor ciência é aquela que outras pessoas conseguem usar."*
 
 </div>
