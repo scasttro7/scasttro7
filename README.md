@@ -1,35 +1,49 @@
 <div align="center">
 
-<!-- Banner animado (capsule-render) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3d14,50:2d5a20,100:4a8c38&height=220&section=header&text=CastroLab™&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cientista%20Galerosa™&descAlignY=52&descSize=22"/>
-
-<!-- Contador de visitantes -->
-<img src="https://komarev.com/ghpvc/?username=scasttro7&label=Visitas+ao+perfil&color=2d5a20&style=flat" />
+<!-- Foto real como banner do topo -->
+<img src="assets/rio-nuvens.jpg" width="100%" style="border-radius:12px; max-height:320px; object-fit:cover;" alt="Rio na Amazônia, visto do ar"/>
 
 <br/><br/>
 
-<!-- Texto com efeito de digitação, com toque "GeoAI" -->
+</div>
+
+> [!NOTE]
+>
+> 🌴 **Welcome to CastroLab™**
+>
+> We build open scientific infrastructure for Tropical Forests.
+>
+> If you're interested in Open Science, GeoAI, Remote Sensing, Environmental Sciences or Tropical Forest Ecology...
+>
+> **You're home.**
+
+<div align="center">
+
+<br/>
+
+<!-- Texto com efeito de digitação -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A8C38&center=true&vCenter=true&width=650&lines=Open+Science+for+Tropical+Forests+%F0%9F%8C%B4;GeoAI+%2B+Sensoriamento+Remoto+%2B+Ecologia;O+que+a+floresta+guarda%3F;O+que+as+comunidades+percebem%3F;Ci%C3%AAncia+aberta.+C%C3%B3digo+aberto.+Lanches+abertos." alt="Typing SVG" />
 </a>
+
+# CastroLab™
+### - O Lab Virtual da Cientista Galerosa™
 
 ☕ **Não me leve a sério, me leve pra lanchar**
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
 
-<br/><br/>
-
-<!-- Imagem real da Amazônia — Wikimedia Commons, domínio público -->
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20the%20Amazon%20Rainforest.jpg?width=900" width="100%" style="border-radius:12px" alt="Vista aérea da Floresta Amazônica — Wikimedia Commons"/>
-<sub><i>Rio Solimões, Amazônia — foto de domínio público, Wikimedia Commons</i></sub>
+<!-- Contador de visitantes -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=scasttro7&label=Visitas+ao+perfil&color=2d5a20&style=flat" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
+<img src="assets/dossel-estrada.jpg" width="100%" style="border-radius:12px; max-height:200px; object-fit:cover; margin:16px 0;" alt="Dossel florestal visto do ar"/>
 
 # 👋 Oi! Eu sou a Sabrina.
 
-Faço Doutorado em  **Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)**.
+Faço Doutorado em **Ciências do Ambiente e Sustentabilidade na Amazônia (PPGCASA/UFAM)**.
 
 Minha pesquisa une:
 
@@ -41,9 +55,9 @@ Tudo isso para responder perguntas difíceis sobre as florestas tropicais. Pergu
 > **O que as comunidades percebem?**
 > **Quando essas duas histórias deixam de conversar?**
 
-Foi daí que nasceu o **BIODATUM**.
+Foi daí que nasceu o primeiro projeto do **CastroLab™: BIODATUM**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
+<img src="assets/canoa.jpg" width="100%" style="border-radius:12px; max-height:200px; object-fit:cover; margin:16px 0;" alt="Canoa em rio amazônico"/>
 
 # 🚀 O que eu construo
 
@@ -53,13 +67,9 @@ Minha ideia é simples:
 
 > **Se alguém conseguir fazer boa ciência usando um pacote que eu desenvolvi, então ele cumpriu seu papel.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
-
 # 🌴 Projetos
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20rainforest%20treetops%20in%20Tena%2C%20Ecuador.jpg?width=900" width="100%" style="border-radius:12px"/>
-
-<br/><br/>
+<img src="assets/dossel-panoramica.jpg" width="100%" style="border-radius:12px; max-height:280px; object-fit:cover; margin:16px 0;" alt="Dossel da Floresta Amazônica ao entardecer"/>
 
 <table>
 <tr>
@@ -105,7 +115,7 @@ Pacote R para análise integrada dos seis biomas brasileiros.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
+<img src="assets/rio-barcos.jpg" width="100%" style="border-radius:12px; max-height:200px; object-fit:cover; margin:16px 0;" alt="Rio amazônico com barco e comunidade ribeirinha"/>
 
 # 🌎 Agenda científica
 
@@ -153,6 +163,8 @@ Porque problemas parecidos merecem conversar entre si.
 <img src="https://github-profile-trophy.vercel.app/?username=scasttro7&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
+
 # 🐍 Contribuições (modo cobrinha)
 
 <p align="center">
@@ -163,13 +175,16 @@ Porque problemas parecidos merecem conversar entre si.
 
 # 🌱 Ciência que acredito
 
-🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; 🍔 Lanches
+🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;☕ Café&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
 # 📚 Curiosidades cientificamente relevantes
 
 🥤 Sommelier Internacional de Toddynho.
+🍔 Não me leve a sério.
+🥪 Me leve pra lanchar.
+🥁 Ou pro pagode.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
