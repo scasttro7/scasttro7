@@ -27,7 +27,7 @@
 </a>
 
 # CastroLab™
-### - O Lab Virtual da Cientista Galerosa™
+### O Lab Virtual da Cientista Galerosa™
 
 ☕ **Não me leve a sério, me leve pra lanchar**
 
@@ -175,16 +175,13 @@ Porque problemas parecidos merecem conversar entre si.
 
 # 🌱 Ciência que acredito
 
-🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;☕ Café&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
+🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
 # 📚 Curiosidades cientificamente relevantes
 
 🥤 Sommelier Internacional de Toddynho.
-🍔 Não me leve a sério.
-🥪 Me leve pra lanchar.
-🥁 Ou pro pagode.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
