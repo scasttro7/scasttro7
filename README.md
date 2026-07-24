@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Foto real como banner do topo -->
-<img src="assets/rio-nuvens.jpg" width="100%" style="border-radius:12px; max-height:320px; object-fit:cover;" alt="Rio na Amazônia, visto do ar"/>
+<img src="assets/castrolab-banner.svg" width="100%" style="border-radius:12px;" alt="CastroLab"/>
 
 <br/><br/>
 
