@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A8C38&center=true&vCenter=true&width=650&lines=Open+Science+for+Tropical+Forests+%F0%9F%8C%B4;GeoAI+%2B+Sensoriamento+Remoto+%2B+Ecologia;O+que+a+floresta+guarda%3F;O+que+as+comunidades+percebem%3F;Ci%C3%AAncia+aberta.+C%C3%B3digo+aberto.+Lanches+abertos." alt="Typing SVG" />
 </a>
 
-☕ **Não me leve a sério. Me leve pra lanchar.**
+☕ **Não me leve a sério, me leve pra lanchar**
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
 
@@ -172,12 +172,10 @@ montar o workflow. Depois disso, é só descomentar a linha abaixo:
 # 📚 Curiosidades cientificamente relevantes
 
 🥤 Sommelier Internacional de Toddynho.
-🍔 Não me leve a sério, me leve pra lanchar
-🥁 Ou pro pagode.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
-# 🤝 Vamos conversar?
+# 🤝 Bora trocar ideia?
 
 Se você trabalha com:
 
