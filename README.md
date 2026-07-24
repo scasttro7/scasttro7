@@ -167,7 +167,7 @@ Porque problemas parecidos merecem conversar entre si.
 
 # 🌱 Ciência que acredito
 
-🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;☕ Café&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
+🌎 Ciência Aberta&nbsp;&nbsp;·&nbsp;&nbsp;💻 Código Aberto&nbsp;&nbsp;·&nbsp;&nbsp;📊 Dados Abertos&nbsp;&nbsp;·&nbsp;&nbsp;🤝 Colaboração&nbsp;&nbsp;·&nbsp;&nbsp;🍔 Lanches
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
@@ -189,8 +189,7 @@ Se você trabalha com:
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3d14,50:2d5a20,100:4a8c38&height=150&section=footer&text=Open%20Science.%20Open%20Code.%20Open%20Snacks.%20🍔&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+<img src="assets/openscience-banner.svg" width="100%" style="border-radius:12px; margin:16px 0;" alt="Open Science. Open Code. Open Snacks."/>&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 
 *"A melhor ciência é aquela que outras pessoas conseguem usar."*
 
