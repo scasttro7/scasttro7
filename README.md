@@ -189,7 +189,7 @@ Se você trabalha com:
 
 <br/>
 
-<img src="assets/openscience-banner.svg" width="100%" style="border-radius:12px; margin:16px 0;" alt="Open Science. Open Code. Open Snacks."/>&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+<img src="assets/openscience-banner.svg" width="100%" style="border-radius:12px; margin:16px 0;" alt="Open Science. Open Code. Open Snacks."
 
 *"A melhor ciência é aquela que outras pessoas conseguem usar."*
 
