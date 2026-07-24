@@ -1,0 +1,51 @@
+# Workflow combinado: gera a cobrinha (Platane/snk) E a floresta
+# (script próprio) no MESMO job, publicando as duas juntas na branch
+# "output". Importante mantê-las juntas: se cada animação publicasse em
+# workflows separados, uma rodada apagaria o resultado da outra (a action
+# de publicação sincroniza a pasta inteira a cada execução).
+
+name: generate profile animations
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # todo dia às 6h30 UTC (~3h30 em Manaus)
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # 1) Cobrinha (Platane/snk) — gera direto em dist/
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 2) Floresta (script próprio) — gera no mesmo dist/
+      - name: Generate forest animation
+        run: node scripts/generate-forest.mjs "${{ github.repository_owner }}" dist/forest-contribution-grid.svg
+
+      # 3) Publica as duas juntas, de uma vez só
+      - name: Push animations to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
