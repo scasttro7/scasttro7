@@ -38,10 +38,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 2) Cria as pastas de saída
-      - name: Create output folders
-        run: |
-          mkdir -p forest
-          mkdir -p dist
+- name: Create output folders
+  run: |
+    mkdir -p snake
+    mkdir -p forest
+    mkdir -p final
 
       # 3) Gera a floresta
       - name: Generate forest animation
