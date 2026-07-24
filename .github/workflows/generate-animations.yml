@@ -1,12 +1,12 @@
-name: generate profile animations
+name: Generate profile animations
 
 on:
-  schedule:
-    - cron: "30 6 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+  schedule:
+    - cron: "30 6 * * *"
 
 jobs:
   generate:
@@ -19,44 +19,47 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - uses: actions/checkout@v4
+      # Clona o repositório
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      # Node.js
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      # Cria as pastas PRIMEIRO
+      # Cria as pastas
       - name: Create output folders
         run: |
-          mkdir -p snake
+          mkdir -p dist
           mkdir -p forest
-          mkdir -p final
 
-      # Depois gera a cobrinha
+      # Gera a cobrinha
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            snake/github-contribution-grid-snake.svg
-            snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Gera a floresta
       - name: Generate forest animation
         run: |
           node scripts/generate-forest.mjs "${{ github.repository_owner }}" forest/forest-contribution-grid.svg
 
-      # Junta tudo
-      - name: Assemble final output
+      # Copia a floresta para o dist
+      - name: Prepare final files
         run: |
-          cp snake/* final/
-          cp forest/* final/
+          chmod -R u+w dist || true
+          cp forest/forest-contribution-grid.svg dist/
 
       # Publica
-      - name: Push animations to the output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: final
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
