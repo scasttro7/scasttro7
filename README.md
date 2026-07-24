@@ -157,7 +157,7 @@ Porque problemas parecidos merecem conversar entre si.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
-# 🐍 Contribuições (modo cobrinha)
+# 🐍 Contribuições (modo cobrinha) <img src="https://raw.githubusercontent.com/scasttro7/scasttro7/output/forest-contribution-grid.svg" width="100%"/>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/scasttro7/scasttro7/output/github-contribution-grid-snake.svg" width="100%"/>
