@@ -163,7 +163,7 @@ Porque problemas parecidos merecem conversar entre si.
 <img src="https://raw.githubusercontent.com/scasttro7/scasttro7/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
-<img src="assets/openscience-banner.svg" width="100%" style="border-radius:12px; margin:16px 0;" alt="Open Science. Open Code. Open Snacks."/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
 # 🌱 Ciência que acredito
 
@@ -190,7 +190,8 @@ Se você trabalha com:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3d14,50:2d5a20,100:4a8c38&height=150&section=footer&text=Open%20Science.%20Open%20Code.%20Open%20Snacks.%20🍔&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="assets/openscience-banner.svg" width="100%" style="border-radius:12px; margin:16px 0;" alt="Open Science. Open Code. Open Snacks."/>
 
 *"A melhor ciência é aquela que outras pessoas conseguem usar."*
 
