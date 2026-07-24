@@ -38,8 +38,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 2) Floresta (script próprio) — gera no mesmo dist/
-      - name: Generate forest animation
-        run: node scripts/generate-forest.mjs "${{ github.repository_owner }}" dist/forest-contribution-grid.svg
+     - name: Generate forest animation
+  run: node .github/workflows/scripts/generate-forest.mjs "${{ github.repository_owner }}" dist/forest-contribution-grid.svgion-grid.svg
 
       # 3) Publica as duas juntas, de uma vez só
       - name: Push animations to the output branch
