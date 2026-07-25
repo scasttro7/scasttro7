@@ -1,5 +1,4 @@
 name: Generate profile animations
-
 on:
   workflow_dispatch:
   push:
@@ -7,35 +6,25 @@ on:
       - main
   schedule:
     - cron: "30 6 * * *"
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     steps:
-      # Clona o repositório
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Node.js
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      # Cria as pastas
-      - name: Create output folders
-        run: |
-          mkdir -p dist
-          mkdir -p forest
+      - name: Create output folder
+        run: mkdir -p dist
 
-      # Gera a cobrinha
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -44,18 +33,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Gera a floresta
       - name: Generate forest animation
-        run: |
-          node scripts/generate-forest.mjs "${{ github.repository_owner }}" dist/forest-contribution-grid.svg
+        run: node scripts/generate-forest.mjs "${{ github.repository_owner }}" dist/forest-contribution-grid.svg
 
-      # Copia a floresta para o dist
-      - name: Prepare final files
-        run: |
-          chmod -R u+w dist || true
-          cp forest/forest-contribution-grid.svg dist/
-
-      # Publica
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
