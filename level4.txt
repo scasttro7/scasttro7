@@ -1,0 +1,9 @@
+..DD.....
+.DLLD....
+DLLLLD...
+DDLLLLD..
+DLLLLLLD.
+.DDLLLLD.
+..DLLLLD.
+...DDLLD.
+....BBB..
