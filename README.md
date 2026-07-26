@@ -109,6 +109,26 @@ Pacote R para análise integrada dos seis biomas brasileiros.
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="100%" valign="top" align="center">
+
+### 🎮 Amazônia Explorer
+[![Jogar](https://img.shields.io/badge/▶_Jogar_agora-1e3d14?style=for-the-badge)](https://scasttro7.github.io/amazonia-explorer/)
+[![Repo](https://img.shields.io/badge/GitHub-amazonia--explorer-2d5a20?style=for-the-badge&logo=github)](https://github.com/scasttro7/amazonia-explorer)
+
+Protótipo de jogo educativo estilo Pokémon/Zelda — explore uma RDS fictícia da Amazônia e descubra espécies reais (com nome científico e status de conservação) andando pelo mapa.
+
+🐒 Sauim-de-coleira
+🦅 Harpia
+🌺 Vitória-régia
+🐬 Boto-cor-de-rosa
+🌳 Castanheira
+
+</td>
+</tr>
+</table>
+
 <h1><img src="assets/rio-barcos.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Rio amazônico com barco"/> 🌎 Agenda científica</h1>
 
 Hoje trabalho principalmente com:
