@@ -193,6 +193,34 @@ Se você trabalha com:
 
 *(E provavelmente também para um Açaí.)*
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
+
+# 🗺️ Roadmap
+
+Não é uma promessa de prazo — é a direção que o CastroLab™ está tomando.
+
+```
+🌴 CastroLab™
+│
+├── 🔬 Research        BIODATUM · artigos · protocolos · cooperação internacional
+├── 📦 Software         ForestR · EcoBiomasBR · ForestGrid
+├── 🎮 Games            Amazônia Explorer · TucuxiDéx
+├── 📚 Learning         tutoriais · workshops · ciência aberta
+├── 🌍 Open Data         datasets · scripts · APIs · reprodutibilidade
+└── 🤝 Community         ciência cidadã · comunidades tradicionais · extensão
+```
+
+Hoje o centro de gravidade é o **Research** (a tese, sempre). Os outros braços crescem como side-quests — pequenos, aos poucos, sem pressa.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Research-ativo-1e3d14?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software-ativo-2d5a20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Games-protótipo-4a8c38?style=flat-square"/>
+<img src="https://img.shields.io/badge/Learning-planejado-8b6010?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_Data-planejado-8b6010?style=flat-square"/>
+<img src="https://img.shields.io/badge/Community-ativo-2d5a20?style=flat-square"/>
+</p>
+
 <br/>
 
 <div align="center">
