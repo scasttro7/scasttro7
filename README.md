@@ -178,19 +178,8 @@ Porque problemas parecidos merecem conversar entre si.
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=scasttro7&show_icons=true&theme=transparent&title_color=2d5a20&icon_color=4a8c38&text_color=333&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scasttro7&layout=compact&theme=transparent&title_color=2d5a20&text_color=333&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=scasttro7&theme=transparent&hide_border=true&ring=4a8c38&fire=8b6010&currStreakLabel=2d5a20"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=scasttro7&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3d14,50:2d5a20,100:4a8c38&height=4&section=header"/>
 
 # 🌳 Contribuições (modo floresta)
 
