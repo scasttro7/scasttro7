@@ -183,7 +183,7 @@ Porque problemas parecidos merecem conversar entre si.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scasttro7&theme=transparent&hide_border=true&ring=4a8c38&fire=8b6010&currStreakLabel=2d5a20"/>
+<img src="https://streak-stats.demolab.com/?user=scasttro7&theme=transparent&hide_border=true&ring=4a8c38&fire=8b6010&currStreakLabel=2d5a20"/>
 </p>
 
 <p align="center">
