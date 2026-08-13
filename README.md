@@ -142,7 +142,9 @@ Jogo interativo de gestão territorial sobre transição energética e descarbon
 
 </td>
 </tr>
-</table> 🌎 Agenda científica</h1>
+</table>
+
+<h1><img src="assets/rio-barcos.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Rio amazônico com barco"/> 🌎 Agenda científica</h1>
 
 Hoje trabalho principalmente com:
 
