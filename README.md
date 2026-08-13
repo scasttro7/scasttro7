@@ -129,7 +129,26 @@ Protótipo de jogo educativo estilo Pokémon/Zelda — explore uma RDS fictícia
 </tr>
 </table>
 
-<h1><img src="assets/rio-barcos.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Rio amazônico com barco"/> 🌎 Agenda científica</h1>
+<h1><img src="assets/rio-barcos.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Rio amazônico com barco"/> <table>
+<tr>
+<td width="100%" valign="top" align="center">
+
+### 🎮 Guardiões do Resíduo — IPEB
+[![Jogar](https://img.shields.io/badge/▶_Jogar_agora-1e3d14?style=for-the-badge)](https://scasttro7.github.io/Guardi-es-do-Res-duo/)
+[![Repo](https://img.shields.io/badge/GitHub-Guardiões_do_Resíduo-2d5a20?style=for-the-badge&logo=github)](https://github.com/scasttro7/Guardi-es-do-Res-duo)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21910686.svg)](https://doi.org/10.5281/zenodo.21910686)
+
+Jogo interativo de gestão territorial sobre transição energética e descarbonização — protótipo de comunicação científica para o Índice de Potencial Energético de Biomassa Residual (IPEB), testado nos cenários Brasil e Bolívia como prova de conceito de replicabilidade regional no MERCOSUL.
+
+⚡ Transição Energética
+🌳 Biomassa Residual
+🎮 Ciência Interativa
+🇧🇷🇧🇴 Brasil + Bolívia
+🏆 19º Prêmio MERCOSUL 2026
+
+</td>
+</tr>
+</table> 🌎 Agenda científica</h1>
 
 Hoje trabalho principalmente com:
 
