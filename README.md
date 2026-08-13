@@ -127,9 +127,7 @@ Protótipo de jogo educativo estilo Pokémon/Zelda — explore uma RDS fictícia
 
 </td>
 </tr>
-</table>
-
-<h1><img src="assets/rio-barcos.jpg" width="56" height="56" style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:10px;" alt="Rio amazônico com barco"/> <table>
+<table>
 <tr>
 <td width="100%" valign="top" align="center">
 
@@ -140,11 +138,7 @@ Protótipo de jogo educativo estilo Pokémon/Zelda — explore uma RDS fictícia
 
 Jogo interativo de gestão territorial sobre transição energética e descarbonização — protótipo de comunicação científica para o Índice de Potencial Energético de Biomassa Residual (IPEB), testado nos cenários Brasil e Bolívia como prova de conceito de replicabilidade regional no MERCOSUL.
 
-⚡ Transição Energética
-🌳 Biomassa Residual
-🎮 Ciência Interativa
-🇧🇷🇧🇴 Brasil + Bolívia
-🏆 19º Prêmio MERCOSUL 2026
+⚡ Transição Energética · 🌳 Biomassa Residual · 🎮 Ciência Interativa · 🇧🇷 Brasil · 🇧🇴 Bolívia · 🏆 19º Prêmio MERCOSUL 2026
 
 </td>
 </tr>
